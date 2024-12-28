@@ -2,7 +2,7 @@
   <img src="https://media1.tenor.com/m/zRLgoJ03JFwAAAAC/nakiri-ayame-vtuber.gif" alt="animated bold text" width="400"/>
 
   <h1>👋 Welcome to NunoiEnter's GitHub!</h1>
-  <img src="https://media1.tenor.com/m/p_3SNunK09kAAAAd/%E7%99%BE%E9%AC%BC%E3%81%82%E3%82%84%E3%82%81-%E3%83%9B%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%96.gif" alt="Nakiri Ayame Anime" width="300"/>
+  <img src="https://media1.tenor.com/m/MYdP5I67ATkAAAAd/ayame.gif" alt="Nakiri Ayame Anime" width="300"/>
   
   <h3>✨ About Me ✨</h3>
   <p>
