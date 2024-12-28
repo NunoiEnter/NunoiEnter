@@ -51,22 +51,6 @@
   </tr>
 </table>
 
-#### **Databases**
-<table>
-  <tr>
-    <td align="center"><b>Relational Databases</b></td>
-    <td align="center"><b>NoSQL Databases</b></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mysql,mariadb" alt="Relational Databases" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=firebase" alt="NoSQL Databases" />
-    </td>
-  </tr>
-</table>
-
 #### **Design & Tools**
 <table>
   <tr>
