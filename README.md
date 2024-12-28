@@ -3,7 +3,8 @@
 
   <h1>👋 Welcome to NunoiEnter's GitHub!</h1>
   <img src="https://media1.tenor.com/m/MYdP5I67ATkAAAAd/ayame.gif" alt="Nakiri Ayame Anime" width="300"/>
-  
+   <h2>👋 私のギットハブ へようこそ! </h2>
+   
   <h3>✨ About Me ✨</h3>
   <p>
     <b>Phakhaphon Sornnarai</b><br>
