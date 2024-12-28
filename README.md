@@ -38,14 +38,12 @@
   </tr>
 </table>
 
-#### **Databases**
-<img src="https://skillicons.dev/icons?i=mysql,mariadb" alt="Database Skills" />
 
 #### **Design & Tools**
 <img src="https://skillicons.dev/icons?i=figma,photoshop,premiere,aftereffects,adobeanimate" alt="Design & Tools" />
 
 #### **Linux & Additional Tools**
-<img src="https://skillicons.dev/icons?i=archlinux,linux,ubuntu,debian,arduino,opencv" alt="Linux & Tools" />
+<img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,debian,arduino,opencv" alt="Linux & Tools" />
 
 </div>
 
