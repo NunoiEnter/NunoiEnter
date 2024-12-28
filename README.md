@@ -16,22 +16,36 @@
 ---
 
 ### 🛠️ Skills and Tools
+
 <div align="center">
 
 #### **Programming**
 <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript" alt="Programming Skills" />
 
 #### **Front-end & Back-end**
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,svelte,vite,nodejs,php,firebase" alt="Front-end & Back-end Skills" />
+<table>
+  <tr>
+    <td align="center"><b>Front-end</b></td>
+    <td align="center"><b>Back-end</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,svelte,vite" alt="Front-end Skills" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,php,firebase" alt="Back-end Skills" />
+    </td>
+  </tr>
+</table>
 
 #### **Databases**
 <img src="https://skillicons.dev/icons?i=mysql,mariadb" alt="Database Skills" />
 
 #### **Design & Tools**
-<img src="https://skillicons.dev/icons?i=figma,photoshop,premiere,aftereffects,aegisub" alt="Design & Tools" />
+<img src="https://skillicons.dev/icons?i=figma,photoshop,premiere,aftereffects,adobeanimate" alt="Design & Tools" />
 
-#### **Linux & OS**
-<img src="https://skillicons.dev/icons?i=archlinux,linux,ubuntu,debian" alt="Linux Skills" />
+#### **Linux & Additional Tools**
+<img src="https://skillicons.dev/icons?i=archlinux,linux,ubuntu,debian,arduino,opencv" alt="Linux & Tools" />
 
 </div>
 
