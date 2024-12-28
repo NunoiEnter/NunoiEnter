@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/YOUR_ANIMATION_GIF_LINK_HERE/giphy.gif" alt="animated bold text" width="400"/>
+  <img src="https://tenor.com/b7rNQRCu5qo.gif" alt="animated bold text" width="400"/>
 
   <h1>👋 Welcome to NunoiEnter's GitHub!</h1>
   <img src="https://YOUR_NAKIRI_AYAME_IMAGE_LINK_HERE" alt="Nakiri Ayame Anime Style" width="300"/>
