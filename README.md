@@ -11,6 +11,7 @@
     Vocational Certificate, Computer Technology (Year 3)<br>
     Rajamangala University of Technology Phra Nakhon (RMUTP)<br>
     🎯 Wannabe Full Stack Developer 🎯
+    (ARCH LINUX USER BTW)
   </p>
 </div>
 
