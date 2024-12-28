@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tenor.com/b7rNQRCu5qo.gif" alt="animated bold text" width="400"/>
+  <img src="<div class="tenor-gif-embed" data-postid="1641839022284805522" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/ayame-%E7%99%BE%E9%AC%BC%E3%81%82%E3%82%84%E3%82%81-%E3%83%9B%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%96-nakiri-ayame-hololive-gif-1641839022284805522">Ayame 百鬼あやめ GIF</a>from <a href="https://tenor.com/search/ayame-gifs">Ayame GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" alt="animated bold text" width="400"/>
 
   <h1>👋 Welcome to NunoiEnter's GitHub!</h1>
   <img src="https://YOUR_NAKIRI_AYAME_IMAGE_LINK_HERE" alt="Nakiri Ayame Anime Style" width="300"/>
