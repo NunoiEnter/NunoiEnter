@@ -8,9 +8,8 @@
   <h3>✨ About Me ✨</h3>
   <p>
     <b>Phakhaphon Sornnarai</b><br>
-    Vocational Certificate, Computer Technology (Year 3)<br>
-    Rajamangala University of Technology Phra Nakhon (RMUTP)<br>
-    🎯 Wannabe Full Stack Developer 🎯<br>
+    Vocational Certificate, Computer Engineering (Year 3)<br>
+    🎯 Full Stack Developer(Wannabe) 🎯<br>
     (ARCH LINUX USER BTW)
   </p>
 </div>
