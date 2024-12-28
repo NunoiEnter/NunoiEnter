@@ -77,7 +77,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://skillicons.dev/icons?i=arch,,ubuntu,debian" alt="Linux Distros" />
+      <img src="https://skillicons.dev/icons?i=arch,ubuntu,debian" alt="Linux Distros" />
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=arduino,opencv" alt="Additional Tools" />
