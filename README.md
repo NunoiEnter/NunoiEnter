@@ -96,4 +96,5 @@
 
 ---
 
-### 🌟 Thank you for visiting my profile! 🌟
+### 🌟 Thank you for visiting my profile! 🌟<br>
+##🌟 私のプロフィールをご覧いただきありがとうございます！ 🌟
