@@ -95,6 +95,5 @@
 </div>
 
 ---
+## 🌟 Thank you for visiting my profile!  ええ ！ 🌟 
 
-## 🌟 Thank you for visiting my profile! 🌟<br>
-## 🌟 ええ ！ 🌟
