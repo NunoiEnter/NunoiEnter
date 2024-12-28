@@ -75,7 +75,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://skillicons.dev/icons?i=figma,photoshop,adobeanimate" alt="Design Tools" />
+      <img src="https://skillicons.dev/icons?i=figma,photoshop,ai" alt="Design Tools" />
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=premiere,aftereffects" alt="Editing Tools" />
@@ -91,7 +91,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://skillicons.dev/icons?i=archlinux,linux,ubuntu,debian" alt="Linux Distros" />
+      <img src="https://skillicons.dev/icons?i=arch,linux,ubuntu,debian" alt="Linux Distros" />
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=arduino,opencv" alt="Additional Tools" />
