@@ -20,7 +20,20 @@
 <div align="center">
 
 #### **Programming**
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript" alt="Programming Skills" />
+<table>
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td align="center"><b>Libraries/Frameworks</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript" alt="Programming Languages" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,svelte,tailwind,vite" alt="Programming Libraries/Frameworks" />
+    </td>
+  </tr>
+</table>
 
 #### **Front-end & Back-end**
 <table>
@@ -30,7 +43,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,svelte,vite" alt="Front-end Skills" />
+      <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,svelte" alt="Front-end Skills" />
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=nodejs,php,firebase" alt="Back-end Skills" />
@@ -38,12 +51,53 @@
   </tr>
 </table>
 
+#### **Databases**
+<table>
+  <tr>
+    <td align="center"><b>Relational Databases</b></td>
+    <td align="center"><b>NoSQL Databases</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,mariadb" alt="Relational Databases" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=firebase" alt="NoSQL Databases" />
+    </td>
+  </tr>
+</table>
 
 #### **Design & Tools**
-<img src="https://skillicons.dev/icons?i=figma,photoshop,premiere,aftereffects,adobeanimate" alt="Design & Tools" />
+<table>
+  <tr>
+    <td align="center"><b>Design Tools</b></td>
+    <td align="center"><b>Editing Tools</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=figma,photoshop,adobeanimate" alt="Design Tools" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=premiere,aftereffects" alt="Editing Tools" />
+    </td>
+  </tr>
+</table>
 
 #### **Linux & Additional Tools**
-<img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,debian,arduino,opencv" alt="Linux & Tools" />
+<table>
+  <tr>
+    <td align="center"><b>Linux Distros</b></td>
+    <td align="center"><b>Additional Tools</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=archlinux,linux,ubuntu,debian" alt="Linux Distros" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=arduino,opencv" alt="Additional Tools" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
