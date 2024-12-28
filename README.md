@@ -6,10 +6,9 @@
   
   <h3>✨ About Me ✨</h3>
   <p>
-    **Phakhaphon Sornnarai**<br>
+    <b>Phakhaphon Sornnarai</b><br>
     Vocational Certificate, Computer Technology (Year 3)<br>
     Rajamangala University of Technology Phra Nakhon (RMUTP)<br>
-    <br>
     🎯 Wannabe Full Stack Developer 🎯
   </p>
 </div>
@@ -17,35 +16,23 @@
 ---
 
 ### 🛠️ Skills and Tools
+<div align="center">
 
 #### **Programming**
-<div>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript" alt="Programming Skills" />
-</div>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript" alt="Programming Skills" />
 
-#### **Front-end**
-<div>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,svelte" alt="Front-end Skills" />
-</div>
-
-#### **Back-end**
-<div>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,firebase" alt="Back-end Skills" />
-</div>
+#### **Front-end & Back-end**
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,svelte,vite,nodejs,php,firebase" alt="Front-end & Back-end Skills" />
 
 #### **Databases**
-<div>
-  <img src="https://skillicons.dev/icons?i=mysql,mariadb" alt="Database Skills" />
-</div>
+<img src="https://skillicons.dev/icons?i=mysql,mariadb" alt="Database Skills" />
 
-#### **Linux**
-<div>
-  <img src="https://skillicons.dev/icons?i=linux,archlinux,ubuntu,debian" alt="Linux Skills" />
-</div>
+#### **Design & Tools**
+<img src="https://skillicons.dev/icons?i=figma,photoshop,premiere,aftereffects,aegisub" alt="Design & Tools" />
 
-#### **Software Tools**
-<div>
-  <img src="https://skillicons.dev/icons?i=photoshop,premiere,aftereffects" alt="Software Tools" />
+#### **Linux & OS**
+<img src="https://skillicons.dev/icons?i=archlinux,linux,ubuntu,debian" alt="Linux Skills" />
+
 </div>
 
 ---
