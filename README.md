@@ -11,6 +11,8 @@
     1st Year IT Student @king mongkut's institute of technology ladkrabang [KMITL] 🧡💙<br>
     🎯 Full Stack Developer(Wannabe) 🎯<br>
     (ARCH LINUX USER BTW)
+    (NixOS  USER BTW)
+    
   </p>
 </div>
 
