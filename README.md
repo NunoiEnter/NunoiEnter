@@ -8,7 +8,7 @@
   <h3>✨ About Me ✨</h3>
   <p>
     <b>Phakhaphon Sornnarai</b><br>
-    Vocational Certificate, Computer Engineering (Year 3)<br>
+    1st Year IT Student @king mongkut's institute of technology ladkrabang [KMITL] 🧡💙<br>
     🎯 Full Stack Developer(Wannabe) 🎯<br>
     (ARCH LINUX USER BTW)
   </p>
