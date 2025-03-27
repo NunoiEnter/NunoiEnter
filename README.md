@@ -13,7 +13,6 @@
     (ARCH LINUX USER BTW)
     (NixOS  USER BTW)
   </p>
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31cx222zv4cscv65spzrvseam6la&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=40943d&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31cx222zv4cscv65spzrvseam6la&redirect=true)
 </div>
 
 ---
