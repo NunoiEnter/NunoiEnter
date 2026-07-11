@@ -15,6 +15,7 @@
 
 #### **Languages, QA & Power Tools**
 <img src="https://skillicons.dev/icons?i=go,rust,python,java,c,cpp,postman,cypress,neovim,docker,nginx" alt="Languages and Tools"/>
+
 #### **OS, Environments & Shells**
 <img src="https://skillicons.dev/icons?i=nix,arch,kali,debian,bash,powershell" alt="OS and Shells" />  
 
