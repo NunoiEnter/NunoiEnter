@@ -18,17 +18,13 @@
 <br>
 <img src="https://img.shields.io/badge/tmux-1BB91F?style=flat&logo=tmux&logoColor=white" alt="Tmux" /> <img src="https://img.shields.io/badge/Podman-892CA0?style=flat&logo=podman&logoColor=white" alt="Podman" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" alt="Wireshark" />
 
-#### **Performance & Load Testing**
-<img src="https://img.shields.io/badge/k6-7D64FF?style=flat&logo=k6&logoColor=white" alt="k6" /> <img src="https://img.shields.io/badge/Locust-27AE60?style=flat&logo=locust&logoColor=white" alt="Locust" /> <img src="https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white" alt="JMeter" /> <img src="https://img.shields.io/badge/wrk-EA4336?style=flat&logo=linux&logoColor=white" alt="wrk" />
+#### **Performance & Load Testing**Update GitHub stats image in README
+<img src="https://img.shields.io/badge/k6-7D64FF?style=flat&logo=k6&logoColor=white" alt="k6" /> <img src="https://img.shields.io/badge/Locust-27AE60?style=flat&logo=locust&logoColor=white" alt="Locust" /> <img src="https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white" alt="JMeter" /> <img src="https://img.Update GitHub stats image in READMEshields.io/badge/wrk-EA4336?style=flat&logo=linux&logoColor=white" alt="wrk" />
 
 #### **OS, Environments & Shells**
 <img src="https://skillicons.dev/icons?i=nix,arch,kali,debian,bash,powershell" alt="OS and Shells" />  
 <br><br>
 <img src="https://img.shields.io/badge/Zsh-F15A24?style=flat&logo=zsh&logoColor=white" alt="Zsh" /> <img src="https://img.shields.io/badge/Fish-3A4750?style=flat&logo=linux&logoColor=white" alt="Fish" /> <img src="https://img.shields.io/badge/Nushell-4E9A06?style=flat&logo=linux&logoColor=white" alt="Nushell" />
-
+Update GitHub stats image in READMEUpdate GitHub stats image in README
 ---
-
-----
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
 ### 🌟 Thank you for visiting my profile! ええ！ 🌟
