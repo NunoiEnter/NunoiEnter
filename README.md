@@ -10,8 +10,10 @@
 - 🐧 Linux Geek
 
 <img src="https://media1.tenor.com/m/iBbw83HaG5MAAAAC/yuzusoft-%E3%82%86%E3%81%9A%E3%82%BD%E3%83%95%E3%83%88.gif" alt="Harumi Ema" width="200"/>
+
 <img src="https://media1.tenor.com/m/AMAgCVJp8WYAAAAd/limelight-lemonade-jam-%E3%83%A9%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AC%E3%83%A2%E3%83%8D%E3%83%BC%E3%83%89%E3%82%B8%E3%83%A3%E3%83%A0.gif" alt="Harumi Ema" width="200"/>
-<img src="https://media1.tenor.com/m/CgMdeLsc9HoAAAAd/yuzusoft.gif" alt="Harumi Ema" width="200"/>
+
+<img src="https://media1.tenor.com/m/CgMdeLsc9HoAAAAd/yuzusoft.gif" alt="Hma" width="200"/>
 
 
 ---
