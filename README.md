@@ -28,4 +28,6 @@
 
 ---
 
+----
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=NunoiEnter)](https://github.com/stats-organization/github-stats-extended)
 ### 🌟 Thank you for visiting my profile! ええ！ 🌟
