@@ -1,98 +1,43 @@
-<div align="center">
-  <img src="https://media1.tenor.com/m/zRLgoJ03JFwAAAAC/nakiri-ayame-vtuber.gif" alt="animated bold text" width="400"/>
+# 👋 Welcome to MoniMoni's GitHub!
+## 👋 私のギットハブ へようこそ!
 
-  <h1>👋 Welcome to NunoiEnter's GitHub!</h1>
-  <img src="https://media1.tenor.com/m/MYdP5I67ATkAAAAd/ayame.gif" alt="Nakiri Ayame Anime" width="300"/>
-   <h2>👋 私のギットハブ へようこそ! </h2>
-   
-  <h3>✨ About Me ✨</h3>
-  <p>
-    <b>Phakhaphon Sornnarai</b><br>
-    1st Year IT Student @king mongkut's institute of technology ladkrabang [KMITL] 🧡💙<br>
-    🎯 Full Stack Developer(Wannabe) 🎯<br>
-    (ARCH LINUX USER BTW)
-    (NixOS  USER BTW)
-  </p>
-</div>
 
----
 
-### 🛠️ Skills and Tools
+### ✨ About Me ✨
+- 👤 **MoniMoni - もにもに**
+- 🎓 Diploma in CompEng @ KMUTNB ➔ 2nd Year IT Student @ KMITL 🧡💙
+- 💻 Software Engineer & Software Tester
+- 🐧 Linux Geek
 
-<div align="center">
+<img src="https://media1.tenor.com/m/iBbw83HaG5MAAAAC/yuzusoft-%E3%82%86%E3%81%9A%E3%82%BD%E3%83%95%E3%83%88.gif" alt="Harumi Ema" width="200"/>
+<img src="https://media1.tenor.com/m/AMAgCVJp8WYAAAAd/limelight-lemonade-jam-%E3%83%A9%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AC%E3%83%A2%E3%83%8D%E3%83%BC%E3%83%89%E3%82%B8%E3%83%A3%E3%83%A0.gif" alt="Harumi Ema" width="200"/>
+<img src="https://media1.tenor.com/m/CgMdeLsc9HoAAAAd/yuzusoft.gif" alt="Harumi Ema" width="200"/>
 
-#### **Programming**
-<table>
-  <tr>
-    <td align="center"><b>Languages</b></td>
-    <td align="center"><b>Libraries/Frameworks</b></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript" alt="Programming Languages" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,svelte,tailwind,vite" alt="Programming Libraries/Frameworks" />
-    </td>
-  </tr>
-</table>
-
-#### **Front-end & Back-end**
-<table>
-  <tr>
-    <td align="center"><b>Front-end</b></td>
-    <td align="center"><b>Back-end</b></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,svelte" alt="Front-end Skills" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,php,firebase" alt="Back-end Skills" />
-    </td>
-  </tr>
-</table>
-
-#### **Design & Tools**
-<table>
-  <tr>
-    <td align="center"><b>Design Tools</b></td>
-    <td align="center"><b>Editing Tools</b></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=figma,photoshop,ai" alt="Design Tools" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=premiere,aftereffects" alt="Editing Tools" />
-    </td>
-  </tr>
-</table>
-
-#### **Linux & Additional Tools**
-<table>
-  <tr>
-    <td align="center"><b>Linux Distros</b></td>
-    <td align="center"><b>Additional Tools</b></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=arch,ubuntu,debian" alt="Linux Distros" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=arduino,opencv" alt="Additional Tools" />
-    </td>
-  </tr>
-</table>
-
-</div>
 
 ---
 
-### 📊 Most Used Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NunoiEnter&layout=compact&theme=radical" alt="Most Used Languages" />
-</div>
+### 🛠️ Tech Stack & Tools
+
+#### **Languages, QA & Power Tools**
+<img src="https://skillicons.dev/icons?i=go,rust,python,java,c,cpp,postman,cypress,neovim,docker,nginx" alt="Languages and Tools"/>
+<br><br>
+<img src="https://img.shields.io/badge/tmux-1BB91F?style=flat&logo=tmux&logoColor=white" alt="Tmux" />
+<img src="https://img.shields.io/badge/Podman-892CA0?style=flat&logo=podman&logoColor=white" alt="Podman" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" alt="Wireshark" />
+
+#### **Performance & Load Testing**
+<img src="https://img.shields.io/badge/k6-7D64FF?style=flat&logo=k6&logoColor=white" alt="k6" />
+<img src="https://img.shields.io/badge/Locust-27AE60?style=flat&logo=locust&logoColor=white" alt="Locust" />
+<img src="https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white" alt="JMeter" />
+<img src="https://img.shields.io/badge/wrk-EA4336?style=flat&logo=linux&logoColor=white" alt="wrk" />
+
+#### **OS, Environments & Shells**
+<img src="https://skillicons.dev/icons?i=nix,arch,kali,debian,bash,powershell" alt="OS and Shells" />  
+<br><br>
+<img src="https://img.shields.io/badge/Zsh-F15A24?style=flat&logo=zsh&logoColor=white" alt="Zsh" />
+<img src="https://img.shields.io/badge/Fish-3A4750?style=flat&logo=linux&logoColor=white" alt="Fish" />
+<img src="https://img.shields.io/badge/Nushell-4E9A06?style=flat&logo=linux&logoColor=white" alt="Nushell" />
 
 ---
-## 🌟 Thank you for visiting my profile!  ええ ！ 🌟 
+
+### 🌟 Thank you for visiting my profile! ええ！ 🌟
