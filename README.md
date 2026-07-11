@@ -15,7 +15,7 @@
 
 #### **Languages, QA & Power Tools**
 <img src="https://skillicons.dev/icons?i=go,rust,python,java,c,cpp,postman,cypress,neovim,docker,nginx" alt="Languages and Tools"/>
-<br><br>
+<br>
 <img src="https://img.shields.io/badge/tmux-1BB91F?style=flat&logo=tmux&logoColor=white" alt="Tmux" /> <img src="https://img.shields.io/badge/Podman-892CA0?style=flat&logo=podman&logoColor=white" alt="Podman" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" alt="Wireshark" />
 
 #### **Performance & Load Testing**
